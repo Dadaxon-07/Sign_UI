@@ -1,16 +1,6 @@
 # sign_up
+![image](https://github.com/Dadaxon-07/Sign/assets/122969603/14c0f858-1c74-4800-a407-74a83dffee35)
+![image](https://github.com/Dadaxon-07/Sign/assets/122969603/6831e124-be7c-4b5e-b984-e951adbb61a6)
+![image](https://github.com/Dadaxon-07/Sign/assets/122969603/f18bb353-4869-4417-a900-b5c807371095)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
